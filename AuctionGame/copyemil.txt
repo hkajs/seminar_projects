@@ -1,0 +1,6 @@
+copyout auctionclientemil.py
+copyout auctionhumanclientemil.py
+copyout auctionREADMEemil
+copyout copyemil
+copyout serveremilbot.py
+copyout serveremil.py
