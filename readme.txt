@@ -1,4 +1,4 @@
-Stats_uhmm is a p-value hack using basic statistics
+Stats_uhmm is a p-value hack using basic statistics.
 
 PrimeGame_Final_Uhmm is a grid based game that has a min-max ai opponent.
 
